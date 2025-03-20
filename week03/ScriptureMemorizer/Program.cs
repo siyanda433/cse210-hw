@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-      Console.WriteLine("Welcome to the ScriptureMemorizer Project.");
+       Console.WriteLine("Welcome to the ScriptureMemorizer Project.");
 
         string[] sentences = new string[]
         {
@@ -64,6 +64,9 @@ class Program
         }
 
         Console.WriteLine("Game over!");
+
+
+
 
         // Createve work.
         //  I have three differnt scriputes.
